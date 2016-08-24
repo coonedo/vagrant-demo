@@ -45,7 +45,7 @@ Instructions:
 - 	Windoze: From dir 'vagrant_project', clone this repo to get
 	the Vagrantfile 
 
-	XXXXXXXXXXXXXXXXXXXXXXXXXXX
+        https://github.com/coonedo/vagrant-demo	
 
 
 
